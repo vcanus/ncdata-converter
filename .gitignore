@@ -29,9 +29,9 @@ build/
 
 ### VS Code ###
 .vscode/
-**/bin/**
-**/obj/**
-NcDataConverter/bin
-NcDataConverter/obj
-NcDataConverterTest/bin/
-NcDataConverterTest/obj/
+/**/bin/**
+/**/obj/**
+/NcDataConverter/bin
+/NcDataConverter/obj
+/NcDataConverterTest/bin/
+/NcDataConverterTest/obj/
