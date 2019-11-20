@@ -47,27 +47,17 @@ namespace NcDataConverterTest
             //
 
             //ValueArray
-            List<double> firstExampleList = new List<double>();
-            for(int i = 0; i < 10; i++)
+            int num = 0;
+            for(int i = 0; i < 3; i++)
             {
-                firstExampleList.Add(i);
+                List<double> list = new List<double>();
+                for(int j = 0; j < 10; j++)
+                {
+                    list.Add(num + j);
+                }
+                num += 100;
+                NcData.ValueArray.AddList(list);
             }
-
-            List<double> secondExampleList = new List<double>();
-            for(int i = 100; i < 110; i++)
-            {
-                secondExampleList.Add(i);
-            }
-
-            List<double> thirdExampleList = new List<double>();
-            for(int i = 200; i < 210; i++)
-            {
-                thirdExampleList.Add(i);
-            }
-
-            NcData.ValueArray.AddList(firstExampleList);
-            NcData.ValueArray.AddList(secondExampleList);
-            NcData.ValueArray.AddList(thirdExampleList);
             //
         }
 
@@ -75,13 +65,17 @@ namespace NcDataConverterTest
         public void TestNcData()
         {
             String directoryPath = Environment.CurrentDirectory;
-            String filePath = directoryPath + "\\jsonFormatTest.txt";
+            String filePath = directoryPath.Replace("bin\\Debug", "jsonFormatTest.txt");
+            Console.WriteLine(filePath);
             String original = File.ReadAllText(filePath);
 
             //결과를 출력할 txt파일 이름을 변수로
             JObject jObject = NcData.ToJson("jsonFormat.txt");
             String test = jObject.ToString();
-            
+
+            String writeFileDirectoryPath = Environment.CurrentDirectory;
+            String writeFilePath = writeFileDirectoryPath + "\\jsonFormat.txt";
+            Console.WriteLine("테스트 결과 : {0}", writeFilePath);
             Assert.AreEqual(original, test);
         }
 
