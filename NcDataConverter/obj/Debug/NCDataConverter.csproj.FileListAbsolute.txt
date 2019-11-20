@@ -1,0 +1,12 @@
+C:\Users\yrShin\source\repos\NcData\NcDataConverter\bin\Debug\NcData.dll.config
+C:\Users\yrShin\source\repos\NcData\NcDataConverter\bin\Debug\NcData.dll
+C:\Users\yrShin\source\repos\NcData\NcDataConverter\bin\Debug\NcData.pdb
+C:\Users\yrShin\source\repos\NcData\NcDataConverter\bin\Debug\NewRelic.Api.Agent.dll
+C:\Users\yrShin\source\repos\NcData\NcDataConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yrShin\source\repos\NcData\NcDataConverter\bin\Debug\Rhino3dmIO.dll
+C:\Users\yrShin\source\repos\NcData\NcDataConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yrShin\source\repos\NcData\NcDataConverter\obj\Debug\NCDataConverter.csprojAssemblyReference.cache
+C:\Users\yrShin\source\repos\NcData\NcDataConverter\obj\Debug\NCDataConverter.csproj.CoreCompileInputs.cache
+C:\Users\yrShin\source\repos\NcData\NcDataConverter\obj\Debug\NCDataConverter.csproj.CopyComplete
+C:\Users\yrShin\source\repos\NcData\NcDataConverter\obj\Debug\NcData.dll
+C:\Users\yrShin\source\repos\NcData\NcDataConverter\obj\Debug\NcData.pdb

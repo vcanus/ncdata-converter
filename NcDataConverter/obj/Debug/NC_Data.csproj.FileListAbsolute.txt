@@ -1,0 +1,15 @@
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\bin\Debug\Win32\librhino3dmio_native.dll
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\bin\Debug\Win64\librhino3dmio_native.dll
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\bin\Debug\librhino3dmio_native.dylib
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\bin\Debug\NC_Data.exe.config
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\bin\Debug\NC_Data.exe
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\bin\Debug\NC_Data.pdb
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\bin\Debug\NewRelic.Api.Agent.dll
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\bin\Debug\Rhino3dmIO.dll
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\obj\Debug\NC_Data.csprojAssemblyReference.cache
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\obj\Debug\NC_Data.csproj.CoreCompileInputs.cache
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\obj\Debug\NC_Data.csproj.CopyComplete
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\obj\Debug\NC_Data.exe
+C:\Users\yrShin\source\repos\NC_Data\NC_Data\obj\Debug\NC_Data.pdb
